@@ -1,0 +1,66 @@
+2017-05-18 11:39:28.048	project	INFO	main function started
+2017-05-18 11:40:26.082	project	INFO	main function started
+2017-05-18 11:41:00.956	project	INFO	main function started
+2017-05-18 11:42:13.453	project	INFO	main function started
+2017-05-18 11:42:13.453	project	INFO	client.loop_forever
+2017-05-18 16:36:47.592	project	INFO	main started
+2017-05-18 16:36:47.592	project	INFO	client.loop_forever
+2017-05-18 16:37:17.201	project	INFO	main started
+2017-05-18 16:37:17.201	project	INFO	client.loop_forever
+2017-05-18 16:39:18.088	project	INFO	main started
+2017-05-18 16:39:18.088	project	INFO	client.loop_forever
+2017-05-18 16:40:27.223	project	INFO	main started
+2017-05-18 16:40:27.223	project	INFO	client.loop_forever
+2017-05-18 16:40:29.557	project	INFO	exit
+2017-05-18 16:40:34.757	project	INFO	main started
+2017-05-18 16:40:34.757	project	INFO	client.loop_forever
+2017-05-18 16:40:38.256	project	INFO	exit
+2017-05-18 16:55:14.044	project	INFO	main started
+2017-05-18 16:55:14.045	project	INFO	client.loop_forever
+2017-05-18 16:55:16.412	project	INFO	exit
+2017-05-18 16:56:17.639	project	INFO	main started
+2017-05-18 16:56:17.639	project	INFO	client.loop_forever
+2017-05-18 16:56:20.817	project	INFO	exit
+2017-05-18 16:56:50.620	project	INFO	main started
+2017-05-18 16:56:50.621	project	INFO	client.loop_forever
+2017-05-18 16:58:31.511	project	INFO	main started
+2017-05-18 16:58:31.511	project	INFO	client.loop_forever
+2017-05-18 16:58:50.359	project	INFO	main started
+2017-05-18 16:58:50.359	project	INFO	client.loop_forever
+2017-05-18 17:02:20.191	project	INFO	main started
+2017-05-18 17:02:20.192	project	INFO	client.loop_forever
+2017-05-18 17:10:46.300	project	INFO	exit
+2017-05-18 17:27:45.326	project	INFO	main started
+2017-05-18 17:27:45.326	project	INFO	client.loop_forever
+2017-05-18 17:28:12.651	project	INFO	exit
+2017-05-18 17:33:09.160	project	INFO	main started
+2017-05-18 17:33:09.160	project	INFO	client.loop_forever
+2017-05-18 17:34:08.721	project	INFO	main started
+2017-05-18 17:34:08.721	project	INFO	client.loop_forever
+2017-05-18 17:34:08.724	project	ERROR	(15, None, u'Hand', u'hello', 0)
+2017-05-18 17:35:19.255	project	INFO	main started
+2017-05-18 17:35:19.255	project	INFO	client.loop_forever
+2017-05-18 17:36:18.872	project	INFO	main started
+2017-05-18 17:36:18.873	project	INFO	client.loop_forever
+2017-05-18 17:48:01.732	project	INFO	main started
+2017-05-18 17:48:01.732	project	INFO	client.loop_forever
+2017-05-18 17:48:01.735	project	ERROR	OnMessageError: (15, None, u'Hand', u'hello', 0)
+2017-05-18 17:48:30.276	project	INFO	main started
+2017-05-18 17:48:30.276	project	INFO	client.loop_forever
+2017-05-18 17:48:30.279	project	ERROR	OnMessageError: (15, None, u'Hand', u'hello', 0)
+2017-05-18 17:51:35.246	project	INFO	main started
+2017-05-18 17:51:35.246	project	INFO	client.loop_forever
+2017-05-18 17:56:39.576	project	INFO	exit
+2017-05-19 09:59:28.504	project	INFO	main started
+2017-05-19 09:59:28.505	project	INFO	client.loop_forever
+2017-05-19 09:59:37.767	project	INFO	exit
+2017-05-19 10:01:57.386	project	INFO	main started
+2017-05-19 10:01:57.386	project	INFO	client.loop_forever
+2017-05-19 10:03:24.767	project	INFO	exit
+2017-05-19 10:05:06.498	project	INFO	main started
+2017-05-19 10:05:06.498	project	DEBUG	project.func:	{u'OPTION': {u'USAGE': u'bin/project', u'ARGUMENT': {u'example': {u'--': u'example', u'default': u'default_example', u'docstring': u'This is a example option.', u'-': u'e'}}}, u'LOG': {u'BACKUPCOUNT': 7, u'MAXBYTES': 1000000, u'WHEN': u'D', u'INTERVAL': 1, u'LEVEL': u'DEBUG'}}
+2017-05-19 10:05:06.498	project	DEBUG	client.on_message	{u'OPTION': {u'USAGE': u'bin/project', u'ARGUMENT': {u'example': {u'--': u'example', u'default': u'default_example', u'docstring': u'This is a example option.', u'-': u'e'}}}, u'LOG': {u'BACKUPCOUNT': 7, u'MAXBYTES': 1000000, u'WHEN': u'D', u'INTERVAL': 1, u'LEVEL': u'DEBUG'}}
+2017-05-19 10:05:06.498	project	INFO	client.loop_forever
+2017-05-19 10:05:10.503	project	DEBUG	on_message: Hand, hello	{u'OPTION': {u'USAGE': u'bin/project', u'ARGUMENT': {u'example': {u'--': u'example', u'default': u'default_example', u'docstring': u'This is a example option.', u'-': u'e'}}}, u'LOG': {u'BACKUPCOUNT': 7, u'MAXBYTES': 1000000, u'WHEN': u'D', u'INTERVAL': 1, u'LEVEL': u'DEBUG'}}
+2017-05-19 10:05:14.711	project	DEBUG	on_message: Hand, hello	{u'OPTION': {u'USAGE': u'bin/project', u'ARGUMENT': {u'example': {u'--': u'example', u'default': u'default_example', u'docstring': u'This is a example option.', u'-': u'e'}}}, u'LOG': {u'BACKUPCOUNT': 7, u'MAXBYTES': 1000000, u'WHEN': u'D', u'INTERVAL': 1, u'LEVEL': u'DEBUG'}}
+2017-05-19 10:05:16.820	project	INFO	exit

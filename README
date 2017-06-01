@@ -1,0 +1,25 @@
+1. Main function should be written in main.py.
+
+2. Common module can be imported directly.
+    - todo:    message handler
+    - env:     environment variables getter 
+    - logger:  log writter
+    - conf:    configures getter
+    - option:  options getter
+
+3. Customized module should be defined in lib.
+    - project: example module
+        - name: return self name
+        + name_size: return length of self name
+
+4. Configures should be defined in conf with format json, including logger, option and customized modules.
+
+5. Unit test should be written in test.py.
+    - Test_Project - test_name, test_name_size
+    - Test_Blabla  - test_a, test_b
+
+6. Example:
+    - Start service with option Josh
+      >> bin/start -e Josh
+    - Run unit test
+      >> bin/test

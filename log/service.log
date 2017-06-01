@@ -1,0 +1,164 @@
+2017-05-23 17:02:58.401	project	INFO	main started
+2017-05-23 17:02:58.402	project	DEBUG	project.func:	{u'OPTION': {u'USAGE': u'bin/project', u'ARGUMENT': {u'example': {u'--': u'example', u'default': u'default_example', u'docstring': u'This is a example option.', u'-': u'e'}}}, u'LOG': {u'BACKUPCOUNT': 7, u'MAXBYTES': 1000000, u'WHEN': u'D', u'INTERVAL': 1, u'LEVEL': u'DEBUG'}}
+2017-05-23 17:02:58.402	project	DEBUG	client.on_message	{u'OPTION': {u'USAGE': u'bin/project', u'ARGUMENT': {u'example': {u'--': u'example', u'default': u'default_example', u'docstring': u'This is a example option.', u'-': u'e'}}}, u'LOG': {u'BACKUPCOUNT': 7, u'MAXBYTES': 1000000, u'WHEN': u'D', u'INTERVAL': 1, u'LEVEL': u'DEBUG'}}
+2017-05-23 17:02:58.402	project	INFO	client.loop_forever
+2017-05-23 17:03:03.264	project	INFO	exit
+2017-05-24 14:15:20.901	project	INFO	main started
+2017-05-24 14:15:20.901	project	DEBUG	project.func:	{u'OPTION': {u'USAGE': u'bin/project', u'ARGUMENT': {u'example': {u'--': u'example', u'default': u'default_example', u'docstring': u'This is a example option.', u'-': u'e'}}}, u'LOG': {u'BACKUPCOUNT': 7, u'MAXBYTES': 1000000, u'WHEN': u'D', u'INTERVAL': 1, u'LEVEL': u'DEBUG'}}
+2017-05-24 14:15:20.901	project	DEBUG	client.on_message	{u'OPTION': {u'USAGE': u'bin/project', u'ARGUMENT': {u'example': {u'--': u'example', u'default': u'default_example', u'docstring': u'This is a example option.', u'-': u'e'}}}, u'LOG': {u'BACKUPCOUNT': 7, u'MAXBYTES': 1000000, u'WHEN': u'D', u'INTERVAL': 1, u'LEVEL': u'DEBUG'}}
+2017-05-24 14:15:20.901	project	INFO	client.loop_forever
+2017-05-24 14:15:25.529	project	INFO	exit
+2017-05-24 14:15:40.248	project	INFO	main started
+2017-05-24 14:15:40.248	project	DEBUG	project.func:	{u'OPTION': {u'USAGE': u'bin/project', u'ARGUMENT': {u'example': {u'--': u'example', u'default': u'default_example', u'docstring': u'This is a example option.', u'-': u'e'}}}, u'LOG': {u'BACKUPCOUNT': 7, u'MAXBYTES': 1000000, u'WHEN': u'D', u'INTERVAL': 1, u'LEVEL': u'DEBUG'}}
+2017-05-24 14:15:40.248	project	DEBUG	client.on_message	{u'OPTION': {u'USAGE': u'bin/project', u'ARGUMENT': {u'example': {u'--': u'example', u'default': u'default_example', u'docstring': u'This is a example option.', u'-': u'e'}}}, u'LOG': {u'BACKUPCOUNT': 7, u'MAXBYTES': 1000000, u'WHEN': u'D', u'INTERVAL': 1, u'LEVEL': u'DEBUG'}}
+2017-05-24 14:15:40.248	project	INFO	client.loop_forever
+2017-05-24 14:15:57.532	project	INFO	exit
+2017-05-24 18:01:58.398	project	INFO	main started
+2017-05-24 18:01:58.398	project	DEBUG	project.func:	{u'OPTION': {u'USAGE': u'bin/start', u'ARGUMENT': {u'example': {u'--': u'example', u'default': u'default_example', u'docstring': u'This is a example option.', u'-': u'e'}}}, u'LOG': {u'BACKUPCOUNT': 7, u'MAXBYTES': 1000000, u'WHEN': u'D', u'INTERVAL': 1, u'LEVEL': u'DEBUG'}}
+2017-05-24 18:01:58.399	project	DEBUG	client.on_message	{u'OPTION': {u'USAGE': u'bin/start', u'ARGUMENT': {u'example': {u'--': u'example', u'default': u'default_example', u'docstring': u'This is a example option.', u'-': u'e'}}}, u'LOG': {u'BACKUPCOUNT': 7, u'MAXBYTES': 1000000, u'WHEN': u'D', u'INTERVAL': 1, u'LEVEL': u'DEBUG'}}
+2017-05-24 18:01:58.399	project	INFO	client.loop_forever
+2017-05-24 18:01:58.400	project	DEBUG	on_message: msg, hi project	{u'OPTION': {u'USAGE': u'bin/start', u'ARGUMENT': {u'example': {u'--': u'example', u'default': u'default_example', u'docstring': u'This is a example option.', u'-': u'e'}}}, u'LOG': {u'BACKUPCOUNT': 7, u'MAXBYTES': 1000000, u'WHEN': u'D', u'INTERVAL': 1, u'LEVEL': u'DEBUG'}}
+2017-05-24 18:01:58.603	project	DEBUG	on_message: msg, hi project	{u'OPTION': {u'USAGE': u'bin/start', u'ARGUMENT': {u'example': {u'--': u'example', u'default': u'default_example', u'docstring': u'This is a example option.', u'-': u'e'}}}, u'LOG': {u'BACKUPCOUNT': 7, u'MAXBYTES': 1000000, u'WHEN': u'D', u'INTERVAL': 1, u'LEVEL': u'DEBUG'}}
+2017-05-24 18:01:58.805	project	DEBUG	on_message: msg, hi project	{u'OPTION': {u'USAGE': u'bin/start', u'ARGUMENT': {u'example': {u'--': u'example', u'default': u'default_example', u'docstring': u'This is a example option.', u'-': u'e'}}}, u'LOG': {u'BACKUPCOUNT': 7, u'MAXBYTES': 1000000, u'WHEN': u'D', u'INTERVAL': 1, u'LEVEL': u'DEBUG'}}
+2017-05-24 18:01:59.008	project	DEBUG	on_message: msg, hi project	{u'OPTION': {u'USAGE': u'bin/start', u'ARGUMENT': {u'example': {u'--': u'example', u'default': u'default_example', u'docstring': u'This is a example option.', u'-': u'e'}}}, u'LOG': {u'BACKUPCOUNT': 7, u'MAXBYTES': 1000000, u'WHEN': u'D', u'INTERVAL': 1, u'LEVEL': u'DEBUG'}}
+2017-05-24 18:02:15.526	project	INFO	exit
+2017-05-25 13:37:30.738	project	INFO	main started
+2017-05-25 13:37:30.738	project	DEBUG	project.func:	{u'OPTION': {u'USAGE': u'bin/start', u'ARGUMENT': {u'example': {u'--': u'example', u'default': u'default_example', u'docstring': u'This is a example option.', u'-': u'e'}}}, u'LOG': {u'BACKUPCOUNT': 7, u'MAXBYTES': 1000000, u'WHEN': u'D', u'INTERVAL': 1, u'LEVEL': u'DEBUG'}}
+2017-05-25 13:37:30.738	project	DEBUG	client.on_message	{u'OPTION': {u'USAGE': u'bin/start', u'ARGUMENT': {u'example': {u'--': u'example', u'default': u'default_example', u'docstring': u'This is a example option.', u'-': u'e'}}}, u'LOG': {u'BACKUPCOUNT': 7, u'MAXBYTES': 1000000, u'WHEN': u'D', u'INTERVAL': 1, u'LEVEL': u'DEBUG'}}
+2017-05-25 13:37:30.738	project	INFO	client.loop_forever
+2017-05-25 13:41:58.646	project	INFO	main started
+2017-05-25 13:41:58.646	project	DEBUG	project.func:	{u'OPTION': {u'USAGE': u'bin/start', u'ARGUMENT': {u'example': {u'--': u'example', u'default': u'default_example', u'docstring': u'This is a example option.', u'-': u'e'}}}, u'LOG': {u'BACKUPCOUNT': 7, u'MAXBYTES': 1000000, u'WHEN': u'D', u'INTERVAL': 1, u'LEVEL': u'DEBUG'}}
+2017-05-25 13:41:58.646	project	DEBUG	client.on_message	{u'OPTION': {u'USAGE': u'bin/start', u'ARGUMENT': {u'example': {u'--': u'example', u'default': u'default_example', u'docstring': u'This is a example option.', u'-': u'e'}}}, u'LOG': {u'BACKUPCOUNT': 7, u'MAXBYTES': 1000000, u'WHEN': u'D', u'INTERVAL': 1, u'LEVEL': u'DEBUG'}}
+2017-05-25 13:41:58.646	project	INFO	client.loop_forever
+2017-05-25 13:43:07.723	project	DEBUG	on_message: messsager, HAA	{u'OPTION': {u'USAGE': u'bin/start', u'ARGUMENT': {u'example': {u'--': u'example', u'default': u'default_example', u'docstring': u'This is a example option.', u'-': u'e'}}}, u'LOG': {u'BACKUPCOUNT': 7, u'MAXBYTES': 1000000, u'WHEN': u'D', u'INTERVAL': 1, u'LEVEL': u'DEBUG'}}
+2017-05-25 13:45:22.070	project	INFO	main started
+2017-05-25 13:45:22.070	project	DEBUG	project.func:	{u'OPTION': {u'USAGE': u'bin/start', u'ARGUMENT': {u'example': {u'--': u'example', u'default': u'default_example', u'docstring': u'This is a example option.', u'-': u'e'}}}, u'LOG': {u'BACKUPCOUNT': 7, u'MAXBYTES': 1000000, u'WHEN': u'D', u'INTERVAL': 1, u'LEVEL': u'DEBUG'}}
+2017-05-25 13:45:22.070	project	DEBUG	client.on_message	{u'OPTION': {u'USAGE': u'bin/start', u'ARGUMENT': {u'example': {u'--': u'example', u'default': u'default_example', u'docstring': u'This is a example option.', u'-': u'e'}}}, u'LOG': {u'BACKUPCOUNT': 7, u'MAXBYTES': 1000000, u'WHEN': u'D', u'INTERVAL': 1, u'LEVEL': u'DEBUG'}}
+2017-05-25 13:45:22.070	project	INFO	client.loop_forever
+2017-05-25 13:45:22.071	project	DEBUG	on_message: messsager, HAA	{u'OPTION': {u'USAGE': u'bin/start', u'ARGUMENT': {u'example': {u'--': u'example', u'default': u'default_example', u'docstring': u'This is a example option.', u'-': u'e'}}}, u'LOG': {u'BACKUPCOUNT': 7, u'MAXBYTES': 1000000, u'WHEN': u'D', u'INTERVAL': 1, u'LEVEL': u'DEBUG'}}
+2017-05-25 13:45:22.073	project	ERROR	OnMessageError: (1, u'messsager', None, u'HAA', 0)
+2017-05-25 13:48:03.803	project	INFO	main started
+2017-05-25 13:48:03.803	project	DEBUG	project.func:	{u'OPTION': {u'USAGE': u'bin/start', u'ARGUMENT': {u'example': {u'--': u'example', u'default': u'default_example', u'docstring': u'This is a example option.', u'-': u'e'}}}, u'LOG': {u'BACKUPCOUNT': 7, u'MAXBYTES': 1000000, u'WHEN': u'D', u'INTERVAL': 1, u'LEVEL': u'DEBUG'}}
+2017-05-25 13:48:03.803	project	DEBUG	client.on_message	{u'OPTION': {u'USAGE': u'bin/start', u'ARGUMENT': {u'example': {u'--': u'example', u'default': u'default_example', u'docstring': u'This is a example option.', u'-': u'e'}}}, u'LOG': {u'BACKUPCOUNT': 7, u'MAXBYTES': 1000000, u'WHEN': u'D', u'INTERVAL': 1, u'LEVEL': u'DEBUG'}}
+2017-05-25 13:48:03.803	project	INFO	client.loop_forever
+2017-05-25 13:48:03.804	project	DEBUG	on_message: messsager, HAA	{u'OPTION': {u'USAGE': u'bin/start', u'ARGUMENT': {u'example': {u'--': u'example', u'default': u'default_example', u'docstring': u'This is a example option.', u'-': u'e'}}}, u'LOG': {u'BACKUPCOUNT': 7, u'MAXBYTES': 1000000, u'WHEN': u'D', u'INTERVAL': 1, u'LEVEL': u'DEBUG'}}
+2017-05-25 13:48:03.805	project	ERROR	OnMessageError: (1, u'messsager', None, u'HAA', 0)
+2017-05-25 13:49:11.640	project	INFO	main started
+2017-05-25 13:49:11.641	project	DEBUG	project.func:	{u'OPTION': {u'USAGE': u'bin/start', u'ARGUMENT': {u'example': {u'--': u'example', u'default': u'default_example', u'docstring': u'This is a example option.', u'-': u'e'}}}, u'LOG': {u'BACKUPCOUNT': 7, u'MAXBYTES': 1000000, u'WHEN': u'D', u'INTERVAL': 1, u'LEVEL': u'DEBUG'}}
+2017-05-25 13:49:11.641	project	DEBUG	client.on_message	{u'OPTION': {u'USAGE': u'bin/start', u'ARGUMENT': {u'example': {u'--': u'example', u'default': u'default_example', u'docstring': u'This is a example option.', u'-': u'e'}}}, u'LOG': {u'BACKUPCOUNT': 7, u'MAXBYTES': 1000000, u'WHEN': u'D', u'INTERVAL': 1, u'LEVEL': u'DEBUG'}}
+2017-05-25 13:49:11.641	project	INFO	client.loop_forever
+2017-05-25 13:49:11.642	project	DEBUG	on_message: messsager, HAA	{u'OPTION': {u'USAGE': u'bin/start', u'ARGUMENT': {u'example': {u'--': u'example', u'default': u'default_example', u'docstring': u'This is a example option.', u'-': u'e'}}}, u'LOG': {u'BACKUPCOUNT': 7, u'MAXBYTES': 1000000, u'WHEN': u'D', u'INTERVAL': 1, u'LEVEL': u'DEBUG'}}
+2017-05-25 13:49:11.643	project	ERROR	OnMessageError: (1, u'messsager', None, u'HAA', 0)
+2017-05-25 13:50:14.060	project	INFO	main started
+2017-05-25 13:50:14.060	project	DEBUG	project.func:	{u'OPTION': {u'USAGE': u'bin/start', u'ARGUMENT': {u'example': {u'--': u'example', u'default': u'default_example', u'docstring': u'This is a example option.', u'-': u'e'}}}, u'LOG': {u'BACKUPCOUNT': 7, u'MAXBYTES': 1000000, u'WHEN': u'D', u'INTERVAL': 1, u'LEVEL': u'DEBUG'}}
+2017-05-25 13:50:14.060	project	DEBUG	client.on_message	{u'OPTION': {u'USAGE': u'bin/start', u'ARGUMENT': {u'example': {u'--': u'example', u'default': u'default_example', u'docstring': u'This is a example option.', u'-': u'e'}}}, u'LOG': {u'BACKUPCOUNT': 7, u'MAXBYTES': 1000000, u'WHEN': u'D', u'INTERVAL': 1, u'LEVEL': u'DEBUG'}}
+2017-05-25 13:50:14.060	project	INFO	client.loop_forever
+2017-05-25 13:50:14.061	project	DEBUG	on_message: messsager, HAA	{u'OPTION': {u'USAGE': u'bin/start', u'ARGUMENT': {u'example': {u'--': u'example', u'default': u'default_example', u'docstring': u'This is a example option.', u'-': u'e'}}}, u'LOG': {u'BACKUPCOUNT': 7, u'MAXBYTES': 1000000, u'WHEN': u'D', u'INTERVAL': 1, u'LEVEL': u'DEBUG'}}
+2017-05-25 13:50:14.063	project	ERROR	OnMessageError: (1, u'messsager', None, u'HAA', 0)
+2017-05-25 13:51:17.361	project	INFO	main started
+2017-05-25 13:51:17.361	project	DEBUG	project.func:	{u'OPTION': {u'USAGE': u'bin/start', u'ARGUMENT': {u'example': {u'--': u'example', u'default': u'default_example', u'docstring': u'This is a example option.', u'-': u'e'}}}, u'LOG': {u'BACKUPCOUNT': 7, u'MAXBYTES': 1000000, u'WHEN': u'D', u'INTERVAL': 1, u'LEVEL': u'DEBUG'}}
+2017-05-25 13:51:17.361	project	DEBUG	client.on_message	{u'OPTION': {u'USAGE': u'bin/start', u'ARGUMENT': {u'example': {u'--': u'example', u'default': u'default_example', u'docstring': u'This is a example option.', u'-': u'e'}}}, u'LOG': {u'BACKUPCOUNT': 7, u'MAXBYTES': 1000000, u'WHEN': u'D', u'INTERVAL': 1, u'LEVEL': u'DEBUG'}}
+2017-05-25 13:51:17.362	project	INFO	client.loop_forever
+2017-05-25 13:51:17.363	project	DEBUG	on_message: messsager, HAA	{u'OPTION': {u'USAGE': u'bin/start', u'ARGUMENT': {u'example': {u'--': u'example', u'default': u'default_example', u'docstring': u'This is a example option.', u'-': u'e'}}}, u'LOG': {u'BACKUPCOUNT': 7, u'MAXBYTES': 1000000, u'WHEN': u'D', u'INTERVAL': 1, u'LEVEL': u'DEBUG'}}
+2017-05-25 13:51:17.364	project	ERROR	OnMessageError: (1, u'messsager', None, u'HAA', 0)
+2017-05-25 13:56:52.103	project	INFO	main started
+2017-05-25 13:56:52.103	project	DEBUG	project.func:	{u'OPTION': {u'USAGE': u'bin/start', u'ARGUMENT': {u'example': {u'--': u'example', u'default': u'default_example', u'docstring': u'This is a example option.', u'-': u'e'}}}, u'LOG': {u'BACKUPCOUNT': 7, u'MAXBYTES': 1000000, u'WHEN': u'D', u'INTERVAL': 1, u'LEVEL': u'DEBUG'}}
+2017-05-25 13:56:52.103	project	DEBUG	client.on_message	{u'OPTION': {u'USAGE': u'bin/start', u'ARGUMENT': {u'example': {u'--': u'example', u'default': u'default_example', u'docstring': u'This is a example option.', u'-': u'e'}}}, u'LOG': {u'BACKUPCOUNT': 7, u'MAXBYTES': 1000000, u'WHEN': u'D', u'INTERVAL': 1, u'LEVEL': u'DEBUG'}}
+2017-05-25 13:56:52.103	project	INFO	client.loop_forever
+2017-05-25 13:56:52.105	project	DEBUG	on_message: messsager, HAA	{u'OPTION': {u'USAGE': u'bin/start', u'ARGUMENT': {u'example': {u'--': u'example', u'default': u'default_example', u'docstring': u'This is a example option.', u'-': u'e'}}}, u'LOG': {u'BACKUPCOUNT': 7, u'MAXBYTES': 1000000, u'WHEN': u'D', u'INTERVAL': 1, u'LEVEL': u'DEBUG'}}
+2017-05-25 13:57:24.135	project	INFO	main started
+2017-05-25 13:57:24.136	project	DEBUG	project.func:	{u'OPTION': {u'USAGE': u'bin/start', u'ARGUMENT': {u'example': {u'--': u'example', u'default': u'default_example', u'docstring': u'This is a example option.', u'-': u'e'}}}, u'LOG': {u'BACKUPCOUNT': 7, u'MAXBYTES': 1000000, u'WHEN': u'D', u'INTERVAL': 1, u'LEVEL': u'DEBUG'}}
+2017-05-25 13:57:24.136	project	DEBUG	client.on_message	{u'OPTION': {u'USAGE': u'bin/start', u'ARGUMENT': {u'example': {u'--': u'example', u'default': u'default_example', u'docstring': u'This is a example option.', u'-': u'e'}}}, u'LOG': {u'BACKUPCOUNT': 7, u'MAXBYTES': 1000000, u'WHEN': u'D', u'INTERVAL': 1, u'LEVEL': u'DEBUG'}}
+2017-05-25 13:57:24.136	project	INFO	client.loop_forever
+2017-05-25 13:57:24.137	project	DEBUG	on_message: messsager, HAA	{u'OPTION': {u'USAGE': u'bin/start', u'ARGUMENT': {u'example': {u'--': u'example', u'default': u'default_example', u'docstring': u'This is a example option.', u'-': u'e'}}}, u'LOG': {u'BACKUPCOUNT': 7, u'MAXBYTES': 1000000, u'WHEN': u'D', u'INTERVAL': 1, u'LEVEL': u'DEBUG'}}
+2017-05-25 13:57:24.138	project	ERROR	ServiceNameError: 
+2017-05-25 13:57:55.875	project	INFO	main started
+2017-05-25 13:57:55.875	project	DEBUG	project.func:	{u'OPTION': {u'USAGE': u'bin/start', u'ARGUMENT': {u'example': {u'--': u'example', u'default': u'default_example', u'docstring': u'This is a example option.', u'-': u'e'}}}, u'LOG': {u'BACKUPCOUNT': 7, u'MAXBYTES': 1000000, u'WHEN': u'D', u'INTERVAL': 1, u'LEVEL': u'DEBUG'}}
+2017-05-25 13:57:55.875	project	DEBUG	client.on_message	{u'OPTION': {u'USAGE': u'bin/start', u'ARGUMENT': {u'example': {u'--': u'example', u'default': u'default_example', u'docstring': u'This is a example option.', u'-': u'e'}}}, u'LOG': {u'BACKUPCOUNT': 7, u'MAXBYTES': 1000000, u'WHEN': u'D', u'INTERVAL': 1, u'LEVEL': u'DEBUG'}}
+2017-05-25 13:57:55.875	project	INFO	client.loop_forever
+2017-05-25 13:57:55.877	project	DEBUG	on_message: messsager, HAA	{u'OPTION': {u'USAGE': u'bin/start', u'ARGUMENT': {u'example': {u'--': u'example', u'default': u'default_example', u'docstring': u'This is a example option.', u'-': u'e'}}}, u'LOG': {u'BACKUPCOUNT': 7, u'MAXBYTES': 1000000, u'WHEN': u'D', u'INTERVAL': 1, u'LEVEL': u'DEBUG'}}
+2017-05-25 13:57:55.878	project	ERROR	ServiceNameError: Invalid service: msg
+2017-05-25 13:58:16.628	project	INFO	main started
+2017-05-25 13:58:16.629	project	DEBUG	project.func:	{u'OPTION': {u'USAGE': u'bin/start', u'ARGUMENT': {u'example': {u'--': u'example', u'default': u'default_example', u'docstring': u'This is a example option.', u'-': u'e'}}}, u'LOG': {u'BACKUPCOUNT': 7, u'MAXBYTES': 1000000, u'WHEN': u'D', u'INTERVAL': 1, u'LEVEL': u'DEBUG'}}
+2017-05-25 13:58:16.629	project	DEBUG	client.on_message	{u'OPTION': {u'USAGE': u'bin/start', u'ARGUMENT': {u'example': {u'--': u'example', u'default': u'default_example', u'docstring': u'This is a example option.', u'-': u'e'}}}, u'LOG': {u'BACKUPCOUNT': 7, u'MAXBYTES': 1000000, u'WHEN': u'D', u'INTERVAL': 1, u'LEVEL': u'DEBUG'}}
+2017-05-25 13:58:16.629	project	INFO	client.loop_forever
+2017-05-25 13:58:16.630	project	DEBUG	on_message: messsager, HAA	{u'OPTION': {u'USAGE': u'bin/start', u'ARGUMENT': {u'example': {u'--': u'example', u'default': u'default_example', u'docstring': u'This is a example option.', u'-': u'e'}}}, u'LOG': {u'BACKUPCOUNT': 7, u'MAXBYTES': 1000000, u'WHEN': u'D', u'INTERVAL': 1, u'LEVEL': u'DEBUG'}}
+2017-05-25 13:58:21.322	project	INFO	exit
+2017-05-25 13:58:22.194	project	INFO	main started
+2017-05-25 13:58:22.194	project	DEBUG	project.func:	{u'OPTION': {u'USAGE': u'bin/start', u'ARGUMENT': {u'example': {u'--': u'example', u'default': u'default_example', u'docstring': u'This is a example option.', u'-': u'e'}}}, u'LOG': {u'BACKUPCOUNT': 7, u'MAXBYTES': 1000000, u'WHEN': u'D', u'INTERVAL': 1, u'LEVEL': u'DEBUG'}}
+2017-05-25 13:58:22.194	project	DEBUG	client.on_message	{u'OPTION': {u'USAGE': u'bin/start', u'ARGUMENT': {u'example': {u'--': u'example', u'default': u'default_example', u'docstring': u'This is a example option.', u'-': u'e'}}}, u'LOG': {u'BACKUPCOUNT': 7, u'MAXBYTES': 1000000, u'WHEN': u'D', u'INTERVAL': 1, u'LEVEL': u'DEBUG'}}
+2017-05-25 13:58:22.194	project	INFO	client.loop_forever
+2017-05-25 13:58:24.241	project	INFO	exit
+2017-05-25 13:58:35.671	project	INFO	main started
+2017-05-25 13:58:35.672	project	DEBUG	project.func:	{u'OPTION': {u'USAGE': u'bin/start', u'ARGUMENT': {u'example': {u'--': u'example', u'default': u'default_example', u'docstring': u'This is a example option.', u'-': u'e'}}}, u'LOG': {u'BACKUPCOUNT': 7, u'MAXBYTES': 1000000, u'WHEN': u'D', u'INTERVAL': 1, u'LEVEL': u'DEBUG'}}
+2017-05-25 13:58:35.672	project	DEBUG	client.on_message	{u'OPTION': {u'USAGE': u'bin/start', u'ARGUMENT': {u'example': {u'--': u'example', u'default': u'default_example', u'docstring': u'This is a example option.', u'-': u'e'}}}, u'LOG': {u'BACKUPCOUNT': 7, u'MAXBYTES': 1000000, u'WHEN': u'D', u'INTERVAL': 1, u'LEVEL': u'DEBUG'}}
+2017-05-25 13:58:35.672	project	INFO	client.loop_forever
+2017-05-25 13:58:37.822	project	INFO	exit
+2017-05-25 14:01:09.575	project	INFO	main started
+2017-05-25 14:01:09.575	project	DEBUG	project.func:	{u'OPTION': {u'USAGE': u'bin/start', u'ARGUMENT': {u'example': {u'--': u'example', u'default': u'default_example', u'docstring': u'This is a example option.', u'-': u'e'}}}, u'LOG': {u'BACKUPCOUNT': 7, u'MAXBYTES': 1000000, u'WHEN': u'D', u'INTERVAL': 1, u'LEVEL': u'DEBUG'}}
+2017-05-25 14:01:09.575	project	DEBUG	client.on_message	{u'OPTION': {u'USAGE': u'bin/start', u'ARGUMENT': {u'example': {u'--': u'example', u'default': u'default_example', u'docstring': u'This is a example option.', u'-': u'e'}}}, u'LOG': {u'BACKUPCOUNT': 7, u'MAXBYTES': 1000000, u'WHEN': u'D', u'INTERVAL': 1, u'LEVEL': u'DEBUG'}}
+2017-05-25 14:01:09.575	project	INFO	client.loop_forever
+2017-05-25 14:01:27.595	project	DEBUG	on_message: messsager, HAADD	{u'OPTION': {u'USAGE': u'bin/start', u'ARGUMENT': {u'example': {u'--': u'example', u'default': u'default_example', u'docstring': u'This is a example option.', u'-': u'e'}}}, u'LOG': {u'BACKUPCOUNT': 7, u'MAXBYTES': 1000000, u'WHEN': u'D', u'INTERVAL': 1, u'LEVEL': u'DEBUG'}}
+2017-05-25 15:06:10.007	project	INFO	exit
+2017-05-25 15:06:11.387	project	INFO	main started
+2017-05-25 15:06:11.388	project	DEBUG	project.func:	{u'OPTION': {u'USAGE': u'bin/start', u'ARGUMENT': {u'example': {u'--': u'example', u'default': u'default_example', u'docstring': u'This is a example option.', u'-': u'e'}}}, u'LOG': {u'BACKUPCOUNT': 7, u'MAXBYTES': 1000000, u'WHEN': u'D', u'INTERVAL': 1, u'LEVEL': u'DEBUG'}}
+2017-05-25 15:06:11.388	project	DEBUG	client.on_message	{u'OPTION': {u'USAGE': u'bin/start', u'ARGUMENT': {u'example': {u'--': u'example', u'default': u'default_example', u'docstring': u'This is a example option.', u'-': u'e'}}}, u'LOG': {u'BACKUPCOUNT': 7, u'MAXBYTES': 1000000, u'WHEN': u'D', u'INTERVAL': 1, u'LEVEL': u'DEBUG'}}
+2017-05-25 15:06:11.388	project	INFO	client.loop_forever
+2017-05-25 15:06:14.077	project	INFO	exit
+2017-05-25 15:26:46.395	project	INFO	main start
+2017-05-25 15:26:46.395	project	DEBUG	project.greeting()	{u'OPTION': {u'USAGE': u'bin/start', u'ARGUMENT': {u'example': {u'--': u'example', u'default': u'default_example', u'docstring': u'This is a example option.', u'-': u'e'}}}, u'LOG': {u'BACKUPCOUNT': 7, u'MAXBYTES': 1000000, u'WHEN': u'D', u'INTERVAL': 1, u'LEVEL': u'DEBUG'}}
+2017-05-25 15:26:46.395	project	DEBUG	set client.on_message	{u'OPTION': {u'USAGE': u'bin/start', u'ARGUMENT': {u'example': {u'--': u'example', u'default': u'default_example', u'docstring': u'This is a example option.', u'-': u'e'}}}, u'LOG': {u'BACKUPCOUNT': 7, u'MAXBYTES': 1000000, u'WHEN': u'D', u'INTERVAL': 1, u'LEVEL': u'DEBUG'}}
+2017-05-25 15:26:46.395	project	INFO	client.loop_forever
+2017-05-25 15:26:55.404	project	DEBUG	on_message: messsager, HAADD	{u'OPTION': {u'USAGE': u'bin/start', u'ARGUMENT': {u'example': {u'--': u'example', u'default': u'default_example', u'docstring': u'This is a example option.', u'-': u'e'}}}, u'LOG': {u'BACKUPCOUNT': 7, u'MAXBYTES': 1000000, u'WHEN': u'D', u'INTERVAL': 1, u'LEVEL': u'DEBUG'}}
+2017-05-25 15:32:11.838	project	INFO	exit(0)
+2017-05-25 15:32:12.444	project	INFO	main start
+2017-05-25 15:32:12.444	project	DEBUG	project.greeting()	{u'OPTION': {u'USAGE': u'bin/start', u'ARGUMENT': {u'example': {u'--': u'example', u'default': u'default_example', u'docstring': u'This is a example option.', u'-': u'e'}}}, u'LOG': {u'BACKUPCOUNT': 7, u'MAXBYTES': 1000000, u'WHEN': u'D', u'INTERVAL': 1, u'LEVEL': u'DEBUG'}}
+2017-05-25 15:32:12.445	project	DEBUG	set client.on_message	{u'OPTION': {u'USAGE': u'bin/start', u'ARGUMENT': {u'example': {u'--': u'example', u'default': u'default_example', u'docstring': u'This is a example option.', u'-': u'e'}}}, u'LOG': {u'BACKUPCOUNT': 7, u'MAXBYTES': 1000000, u'WHEN': u'D', u'INTERVAL': 1, u'LEVEL': u'DEBUG'}}
+2017-05-25 15:32:12.445	project	INFO	client.loop_forever
+2017-05-25 15:32:43.635	project	INFO	main start
+2017-05-25 15:32:43.635	project	DEBUG	project.greeting()	{u'OPTION': {u'USAGE': u'bin/start', u'ARGUMENT': {u'example': {u'--': u'example', u'default': u'default_example', u'docstring': u'This is a example option.', u'-': u'e'}}}, u'LOG': {u'BACKUPCOUNT': 7, u'MAXBYTES': 1000000, u'WHEN': u'D', u'INTERVAL': 1, u'LEVEL': u'DEBUG'}}
+2017-05-25 15:32:43.636	project	DEBUG	set client.on_message	{u'OPTION': {u'USAGE': u'bin/start', u'ARGUMENT': {u'example': {u'--': u'example', u'default': u'default_example', u'docstring': u'This is a example option.', u'-': u'e'}}}, u'LOG': {u'BACKUPCOUNT': 7, u'MAXBYTES': 1000000, u'WHEN': u'D', u'INTERVAL': 1, u'LEVEL': u'DEBUG'}}
+2017-05-25 15:32:43.636	project	INFO	client.loop_forever
+2017-05-25 15:33:20.015	project	INFO	main start
+2017-05-25 15:33:20.015	project	DEBUG	project.greeting()	{u'OPTION': {u'USAGE': u'bin/start', u'ARGUMENT': {u'example': {u'--': u'example', u'default': u'default_example', u'docstring': u'This is a example option.', u'-': u'e'}}}, u'LOG': {u'BACKUPCOUNT': 7, u'MAXBYTES': 1000000, u'WHEN': u'D', u'INTERVAL': 1, u'LEVEL': u'DEBUG'}}
+2017-05-25 15:33:20.016	project	DEBUG	set client.on_message	{u'OPTION': {u'USAGE': u'bin/start', u'ARGUMENT': {u'example': {u'--': u'example', u'default': u'default_example', u'docstring': u'This is a example option.', u'-': u'e'}}}, u'LOG': {u'BACKUPCOUNT': 7, u'MAXBYTES': 1000000, u'WHEN': u'D', u'INTERVAL': 1, u'LEVEL': u'DEBUG'}}
+2017-05-25 15:33:20.016	project	INFO	client.loop_forever
+2017-05-25 15:33:55.270	project	INFO	main start
+2017-05-25 15:33:55.271	project	DEBUG	project.greeting()	{u'OPTION': {u'USAGE': u'bin/start', u'ARGUMENT': {u'example': {u'--': u'example', u'default': u'default_example', u'docstring': u'This is a example option.', u'-': u'e'}}}, u'LOG': {u'BACKUPCOUNT': 7, u'MAXBYTES': 1000000, u'WHEN': u'D', u'INTERVAL': 1, u'LEVEL': u'DEBUG'}}
+2017-05-25 15:33:55.271	project	DEBUG	set client.on_message	{u'OPTION': {u'USAGE': u'bin/start', u'ARGUMENT': {u'example': {u'--': u'example', u'default': u'default_example', u'docstring': u'This is a example option.', u'-': u'e'}}}, u'LOG': {u'BACKUPCOUNT': 7, u'MAXBYTES': 1000000, u'WHEN': u'D', u'INTERVAL': 1, u'LEVEL': u'DEBUG'}}
+2017-05-25 15:33:55.271	project	INFO	client.loop_forever
+2017-05-25 15:34:22.014	project	INFO	main start
+2017-05-25 15:34:22.014	project	DEBUG	project.greeting()	{u'OPTION': {u'USAGE': u'bin/start', u'ARGUMENT': {u'example': {u'--': u'example', u'default': u'default_example', u'docstring': u'This is a example option.', u'-': u'e'}}}, u'LOG': {u'BACKUPCOUNT': 7, u'MAXBYTES': 1000000, u'WHEN': u'D', u'INTERVAL': 1, u'LEVEL': u'DEBUG'}}
+2017-05-25 15:34:22.015	project	DEBUG	set client.on_message	{u'OPTION': {u'USAGE': u'bin/start', u'ARGUMENT': {u'example': {u'--': u'example', u'default': u'default_example', u'docstring': u'This is a example option.', u'-': u'e'}}}, u'LOG': {u'BACKUPCOUNT': 7, u'MAXBYTES': 1000000, u'WHEN': u'D', u'INTERVAL': 1, u'LEVEL': u'DEBUG'}}
+2017-05-25 15:34:22.015	project	INFO	client.loop_forever
+2017-05-25 15:35:30.741	project	INFO	exit(0)
+2017-05-25 15:35:31.785	project	INFO	main start
+2017-05-25 15:35:31.786	project	DEBUG	project.greeting()	{u'OPTION': {u'USAGE': u'bin/start', u'ARGUMENT': {u'example': {u'--': u'example', u'default': u'default_example', u'docstring': u'This is a example option.', u'-': u'e'}}}, u'LOG': {u'BACKUPCOUNT': 7, u'MAXBYTES': 1000000, u'WHEN': u'D', u'INTERVAL': 1, u'LEVEL': u'DEBUG'}}
+2017-05-25 15:35:31.786	project	DEBUG	set client.on_message	{u'OPTION': {u'USAGE': u'bin/start', u'ARGUMENT': {u'example': {u'--': u'example', u'default': u'default_example', u'docstring': u'This is a example option.', u'-': u'e'}}}, u'LOG': {u'BACKUPCOUNT': 7, u'MAXBYTES': 1000000, u'WHEN': u'D', u'INTERVAL': 1, u'LEVEL': u'DEBUG'}}
+2017-05-25 15:35:31.786	project	INFO	client.loop_forever
+2017-05-25 15:35:33.409	project	INFO	exit(0)
+2017-05-25 15:35:37.298	project	INFO	main start
+2017-05-25 15:35:37.298	project	DEBUG	project.greeting()	{u'OPTION': {u'USAGE': u'bin/start', u'ARGUMENT': {u'example': {u'--': u'example', u'default': u'default_example', u'docstring': u'This is a example option.', u'-': u'e'}}}, u'LOG': {u'BACKUPCOUNT': 7, u'MAXBYTES': 1000000, u'WHEN': u'D', u'INTERVAL': 1, u'LEVEL': u'DEBUG'}}
+2017-05-25 15:35:37.298	project	DEBUG	set client.on_message	{u'OPTION': {u'USAGE': u'bin/start', u'ARGUMENT': {u'example': {u'--': u'example', u'default': u'default_example', u'docstring': u'This is a example option.', u'-': u'e'}}}, u'LOG': {u'BACKUPCOUNT': 7, u'MAXBYTES': 1000000, u'WHEN': u'D', u'INTERVAL': 1, u'LEVEL': u'DEBUG'}}
+2017-05-25 15:35:37.298	project	INFO	client.loop_forever
+2017-05-25 15:57:25.276	project	INFO	exit(0)
+2017-05-25 15:57:26.134	project	INFO	main start
+2017-05-25 15:57:26.134	project	DEBUG	project.greeting()	{u'OPTION': {u'USAGE': u'bin/start', u'ARGUMENT': {u'example': {u'--': u'example', u'default': u'default_example', u'docstring': u'This is a example option.', u'-': u'e'}}}, u'LOG': {u'BACKUPCOUNT': 7, u'MAXBYTES': 1000000, u'WHEN': u'D', u'INTERVAL': 1, u'LEVEL': u'DEBUG'}}
+2017-05-25 15:57:26.134	project	DEBUG	set client.on_message	{u'OPTION': {u'USAGE': u'bin/start', u'ARGUMENT': {u'example': {u'--': u'example', u'default': u'default_example', u'docstring': u'This is a example option.', u'-': u'e'}}}, u'LOG': {u'BACKUPCOUNT': 7, u'MAXBYTES': 1000000, u'WHEN': u'D', u'INTERVAL': 1, u'LEVEL': u'DEBUG'}}
+2017-05-25 15:58:04.039	project	INFO	main start
+2017-05-25 15:58:04.039	project	DEBUG	project.greeting()	{u'OPTION': {u'USAGE': u'bin/start', u'ARGUMENT': {u'example': {u'--': u'example', u'default': u'default_example', u'docstring': u'This is a example option.', u'-': u'e'}}}, u'LOG': {u'BACKUPCOUNT': 7, u'MAXBYTES': 1000000, u'WHEN': u'D', u'INTERVAL': 1, u'LEVEL': u'DEBUG'}}
+2017-05-25 15:58:04.039	project	DEBUG	set client.on_message	{u'OPTION': {u'USAGE': u'bin/start', u'ARGUMENT': {u'example': {u'--': u'example', u'default': u'default_example', u'docstring': u'This is a example option.', u'-': u'e'}}}, u'LOG': {u'BACKUPCOUNT': 7, u'MAXBYTES': 1000000, u'WHEN': u'D', u'INTERVAL': 1, u'LEVEL': u'DEBUG'}}
+2017-05-25 15:58:04.051	project	INFO	client.loop_forever
+2017-05-25 15:58:05.202	project	INFO	exit(0)
+2017-05-25 16:04:35.932	project	INFO	main start
+2017-05-25 16:04:35.932	project	DEBUG	project.greeting()	{u'OPTION': {u'USAGE': u'bin/start', u'ARGUMENT': {u'example': {u'--': u'example', u'default': u'default_example', u'docstring': u'This is a example option.', u'-': u'e'}}}, u'LOG': {u'BACKUPCOUNT': 7, u'MAXBYTES': 1000000, u'WHEN': u'D', u'INTERVAL': 1, u'LEVEL': u'DEBUG'}}
+2017-05-25 16:04:35.932	project	DEBUG	set client.on_message	{u'OPTION': {u'USAGE': u'bin/start', u'ARGUMENT': {u'example': {u'--': u'example', u'default': u'default_example', u'docstring': u'This is a example option.', u'-': u'e'}}}, u'LOG': {u'BACKUPCOUNT': 7, u'MAXBYTES': 1000000, u'WHEN': u'D', u'INTERVAL': 1, u'LEVEL': u'DEBUG'}}
+2017-05-25 16:04:35.945	project	INFO	client.loop_forever
+2017-05-25 16:04:37.291	project	INFO	exit(0)
+2017-05-26 14:13:18.906	project	INFO	main start
+2017-05-26 14:13:18.906	project	DEBUG	project.greeting()	{u'OPTION': {u'USAGE': u'bin/start', u'ARGUMENT': {u'example': {u'--': u'example', u'default': u'default_example', u'docstring': u'This is a example option.', u'-': u'e'}}}, u'LOG': {u'BACKUPCOUNT': 7, u'MAXBYTES': 1000000, u'WHEN': u'D', u'INTERVAL': 1, u'LEVEL': u'DEBUG'}}
+2017-05-26 14:13:18.906	project	DEBUG	set client.on_message	{u'OPTION': {u'USAGE': u'bin/start', u'ARGUMENT': {u'example': {u'--': u'example', u'default': u'default_example', u'docstring': u'This is a example option.', u'-': u'e'}}}, u'LOG': {u'BACKUPCOUNT': 7, u'MAXBYTES': 1000000, u'WHEN': u'D', u'INTERVAL': 1, u'LEVEL': u'DEBUG'}}
+2017-05-26 14:13:18.919	project	INFO	client.loop_forever
+2017-05-26 14:14:23.994	project	DEBUG	on_message: messager, hi	{u'OPTION': {u'USAGE': u'bin/start', u'ARGUMENT': {u'example': {u'--': u'example', u'default': u'default_example', u'docstring': u'This is a example option.', u'-': u'e'}}}, u'LOG': {u'BACKUPCOUNT': 7, u'MAXBYTES': 1000000, u'WHEN': u'D', u'INTERVAL': 1, u'LEVEL': u'DEBUG'}}
+2017-05-26 14:14:23.995	project	ERROR	OnMessageError: (4, u'messager', None, u'hi')
+2017-05-26 14:14:23.995	project	ERROR	exit(2)
